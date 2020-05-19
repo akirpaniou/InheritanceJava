@@ -1,7 +1,9 @@
 # Inheritance in Java.
 
 ![alt text](https://cdn.programiz.com/sites/tutorial2program/files/java-inheritance-introduction.png)
+
 ***Example***
+
 ```
 class Vehicle {
   protected String brand = "Ford";        // Vehicle attribute
